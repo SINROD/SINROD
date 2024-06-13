@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022 as a proffesional <br>📚 I'm currently learning ASP.NET MVC with repositorys and interested in QA and DevOps<br>🎯 Goals: <br>- Traveling<br>- Code a lot of stuff<br>- Make things easier<br>🎲 Fun fact: I start code in 2018, making websites</p>
+<p align="left">✨ Creating bugs since 2022 as a proffesional <br>📚 I'm currently learning ASP.NET MVC with repositorys and interested in QA and DevOps<br>🎯 Goals: <br>- Traveling<br>- Code a lot of stuff<br>- Make things easier<br>🎲 Fun fact: I started to code in 2018, making websites</p>
 
 ###
 
